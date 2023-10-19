@@ -105,7 +105,7 @@ The pull request review process and timeline are based on the availability of th
 2. At least 1 member of the Documentation team will review the pull request for:
 
    - accuracy,
-   - quality,
+   - quality, and
    - alignment with the documentation scope and roadmap.
 
 3. Reviewers will either approve, ask for changes, or reject the pull request.
